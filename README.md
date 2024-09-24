@@ -6,14 +6,14 @@ HAPPY  2024
 </p>
 
 ````
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Hubdarkweb/pussy/main/setup.sh && chmod +x setup.sh && ./setup.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Hubdarkweb/topher/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ````
 
 ![logo](https://raw.githubusercontent.com/Hubdarkweb/pussy/main/scp.png)
 
 ### Update menu
 ````
-wget -q https://raw.githubusercontent.com/Hubdarkweb/pussy/main/update.sh
+wget -q https://raw.githubusercontent.com/Hubdarkweb/topher/main/update.sh
 chmod +x update.sh
 ./update.sh
 ````
@@ -34,10 +34,10 @@ https://wa.me/p/254112386921
 Versi Enteng No Udp,slowdns,noobzvpn.no limit
 
 
-![logo](https://raw.githubusercontent.com/Hubdarkweb/pussy/main/scu.png)
+![logo](https://raw.githubusercontent.com/Hubdarkweb/topher/main/scu.png)
 
 
-![logo](https://raw.githubusercontent.com/Hubdarkweb/pussy/main/scc.png)
+![logo](https://raw.githubusercontent.com/Hubdarkweb/topher/main/scc.png)
 
 ### Tuk CaraNya Bisa Klik
 Youtube Tutorial
