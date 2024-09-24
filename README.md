@@ -41,11 +41,11 @@ Versi Enteng No Udp,slowdns,noobzvpn.no limit
 
 ### Tuk CaraNya Bisa Klik
 Youtube Tutorial
-https://youtu.be/OkVAQVFIPPc
+https://youtu.be/TOpPLUG
 
 ### Cara Fix Dropbear Haproxy Nginx
 
-https://youtu.be/5oyRchPMzJc?si=5n9sxwrbrn2y4URd
+https://youtu.be/Hubdarkweb 
 
 Sedia AkunSsh Premium 10k isp indo & Sgdo
 
