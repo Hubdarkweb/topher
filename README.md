@@ -2,14 +2,14 @@
 HAPPY  2024
 ````
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T++A+R+Y+A++B+L+I+T+A+R" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&line=T+O+p+P+L+U+G" />
 </p>
 
 ````
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Hubdarkweb/topher/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ````
 
-![logo](https://raw.githubusercontent.com/Hubdarkweb/pussy/main/scp.png)
+![logo](https://raw.githubusercontent.com/Hubdarkweb/topher/main/scp.png)
 
 ### Update menu
 ````
@@ -49,7 +49,7 @@ https://youtu.be/Hubdarkweb
 
 Sedia AkunSsh Premium 10k isp indo & Sgdo
 
-![logo](https://raw.githubusercontent.com/Hubdarkweb/pussy/main/gb.png)
+![logo](https://raw.githubusercontent.com/Hubdarkweb/topher/main/gb.png)
 
 ### BISA HUBUNGI
 <a href="https://t.me/T_OpPLUG" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/254112386921" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
